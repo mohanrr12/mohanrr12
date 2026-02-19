@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mohanrr12
-- 👀 I’m interested in ...Developing new new innovative ideas
-- 🌱 I’m currently learning ...c programing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...vasantharavulapalli7805@gmail.com
+Python Developer | Data Analyst | ML Graduate
+LinkedIn : https://www.linkedin.com/in/mohan-venkatesh-ravulapalli-348687389/
+location: Hyderabad, India
 
 <!---
 mohanrr12/mohanrr12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
